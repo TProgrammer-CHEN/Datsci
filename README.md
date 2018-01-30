@@ -1,2 +1,2 @@
 # Datsci
-Host Mother Fucker
+Some practical or theoratical Articles/Codes on Data Science skills/philosophy
